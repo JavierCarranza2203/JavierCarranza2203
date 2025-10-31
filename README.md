@@ -1,44 +1,22 @@
-<!--
-**MuhammadFaizanHaidar/MuhammadFaizanHaidar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <p align="center">
   <img src="https://assets.gocoderz.xyz/site/wp-content/uploads/2017/02/shutterstock_239157115-460x320.jpg" height="200"/>
 </p>
 <br>
-
 <p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=muhammadfaizanhaidar&color=brightgreen" alt="watching_count" />
+<img src="https://komarev.com/ghpvc/?username=JavierCarranza2203&color=brightgreen" alt="watching_count" />
  </p>
  <p align="center">
-<img src="https://img.shields.io/badge/Age-25-blue" />
-  <img src="https://img.shields.io/badge/Focus-WordPress-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-Pakistan-success" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Urdu-brightgreen" />
+<img src="https://img.shields.io/badge/Age-22-blue" />
+  <img src="https://img.shields.io/badge/Focus-Desarrollo%20Web-brightgreen" />
+  <img src="https://img.shields.io/badge/Pais-Mexico-success" />
+  <img src="https://img.shields.io/badge/Idiomas-Ingles%20%26%20Español-brightgreen" />
 </p>
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Muhammad Faizan </h1>
-<h3 align="center">WordPress Plugins | Themes Engineer </h3>
-<h4 align="center">4 years of experience in WP Plugins Development.</h4>
+<h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, mi nombre es Javier Carranza </h1>
+<h3 align="center">Desarrollador Web | Junio Developer </h3>
+<h4 align="center">4 años de experiencia desarrollando aplicaciones.</h4>
 <p align="center">
-<a href="https://profiles.wordpress.org/muhammadfaizanhaidar/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="muhammad_faizan_haidar" height="30" width="40" /></a>
-<a href="https://www.upwork.com/freelancers/~01c9487f998e65bbee" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/upwork/upwork-icon.svg" alt="up_muhammad_faizan_haidar" height="30" width="40" /></a>
-<a href="fiverr.com/users/faizanhaider570/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/fiverr/fiverr-icon.svg" alt="fiv_muhammad_faizan_haidar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/faizanhaider594" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_muhammad_faizan_haidar" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/muhammad-faizan-haidar-963161150/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_muhammad_faizan_haidar" height="30" width="40" /></a>  
-<a href="https://www.instagram.com/muhammad_faizan_haidar/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="insta_muhammad_faizan_haidar" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100004267392010" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="fb_muhammad_faizan_haidar" height="30" width="40" /></a>
- <a href = "mailto: faizanhaider594@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
+ <a href = "mailto: javcarr.2203@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 </p>
 
 <p align="center">
@@ -74,14 +52,7 @@ Here are some ideas to get you started:
 ### 👉 Programming languages
 
 <p align="left"> 
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-   </a>
-  &emsp;
-  <a href="https://www.php.net/">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
-  </a>
+  [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 </p>
 
 ### 👉 Frontend Development
