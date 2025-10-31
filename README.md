@@ -52,7 +52,9 @@
 ### 👉 Programming languages
 
 <p align="left"> 
-  [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+  <a href="#" target="_blank"> 
+     <img alt="JavaScript" src="https://skillicons.dev/icons?i=js">
+   </a>
 </p>
 
 ### 👉 Frontend Development
