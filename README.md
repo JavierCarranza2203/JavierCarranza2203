@@ -16,7 +16,7 @@
 <h3 align="center">Desarrollador Web | Junior Developer </h3>
 <h4 align="center">4 años de experiencia desarrollando aplicaciones.</h4>
 <p align="center">
- <a href = "mailto: javcarr.2203@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" width="40" /></a>
+ <a href = "mailto: javcarr.2203@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="60" width="80" /></a>
 </p>
 
 <p align="center">
@@ -53,7 +53,7 @@
   <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://skillicons.dev/icons?i=js">
    </a>
-  
+  &emsp;
   <a href="https://www.php.net/" target="_blank"> 
      <img alt="PHP" src="https://skillicons.dev/icons?i=php">
    </a>
@@ -94,119 +94,71 @@
 ### 👉 Desarrollo Frontend
 <p align="left"> 
   &emsp; 
-  <a href="https://getbootstrap.com/" target="_blank"> 
-     <img alt="bootstrap" src="https://skillicons.dev/icons?i=bootstrap">
-   </a>
+  <a href="https://getbootstrap.com/" target="_blank"><img alt="bootstrap" src="https://skillicons.dev/icons?i=bootstrap"></a>
 &emsp; 
-   <a href="https://lenguajecss.com/css/introduccion/que-es-css/" target="_blank"> 
-     <img alt="css" src="https://skillicons.dev/icons?i=css">
-   </a>
+   <a href="https://lenguajecss.com/css/introduccion/que-es-css/" target="_blank"><img alt="css" src="https://skillicons.dev/icons?i=css"></a>
 &emsp; 
-   <a href="https://lenguajehtml.com/" target="_blank"> 
-     <img alt="html" src="https://skillicons.dev/icons?i=html">
-   </a>
+   <a href="https://lenguajehtml.com/" target="_blank"><img alt="html" src="https://skillicons.dev/icons?i=html"></a>
 &emsp; 
-   <a href="https://es.react.dev/" target="_blank"> 
-     <img alt="react" src="https://skillicons.dev/icons?i=react">
-   </a>
+   <a href="https://es.react.dev/" target="_blank"><img alt="react" src="https://skillicons.dev/icons?i=react"></a>
 &emsp; 
-   <a href="https://tailwindcss.com/" target="_blank"> 
-     <img alt="tailwind" src="https://skillicons.dev/icons?i=tailwind">
-   </a>
+   <a href="https://tailwindcss.com/" target="_blank"><img alt="tailwind" src="https://skillicons.dev/icons?i=tailwind"></a>
 </p>
 
 ### 👉 Bases de datos & Hosting
 <p align="left">
   &emsp;
-    <a href="https://www.mysql.com/" target="_blank"> 
-     <img alt="mysql" src="https://skillicons.dev/icons?i=mysql">
-    </a>
+  <a href="https://www.mysql.com/" target="_blank"><img alt="mysql" src="https://skillicons.dev/icons?i=mysql"></a>
   &emsp;
-   <a href="https://www.netlify.com/" target="_blank"> 
-     <img alt="netlify" src="https://skillicons.dev/icons?i=netlify">
-   </a>
+  <a href="https://www.netlify.com/" target="_blank"><img alt="netlify" src="https://skillicons.dev/icons?i=netlify"></a>
   &emsp;
-   <a href="https://vercel.com/" target="_blank"> 
-     <img alt="vercel" src="https://skillicons.dev/icons?i=vercel">
-   </a>
+  <a href="https://vercel.com/" target="_blank"> <img alt="vercel" src="https://skillicons.dev/icons?i=vercel"></a>
   &emsp;
-   <a href="https://www.postgresql.org/" target="_blank"> 
-     <img alt="postgres" src="https://skillicons.dev/icons?i=postgres">
-   </a>
+  <a href="https://www.postgresql.org/" target="_blank"><img alt="postgres" src="https://skillicons.dev/icons?i=postgres"></a>
  </p>
 
  ### 👉 Software & Herramientas
  
 <p>
    &emsp;
-   <a href="https://developer.android.com/studio" target="_blank"> 
-     <img alt="androidstudio" src="https://skillicons.dev/icons?i=androidstudio">
+   <a href="https://developer.android.com/studio" target="_blank"><img alt="androidstudio" src="https://skillicons.dev/icons?i=androidstudio">
    </a>
    &emsp;
-   <a href="https://discord.com/" target="_blank"> 
-     <img alt="discord" src="https://skillicons.dev/icons?i=discord">
-   </a>
+   <a href="https://discord.com/" target="_blank"><img alt="discord" src="https://skillicons.dev/icons?i=discord"></a>
    &emsp;
-   <a href="https://expressjs.com/es/" target="_blank"> 
-     <img alt="expressjs" src="https://skillicons.dev/icons?i=express">
-   </a>
-  &emsp;
-   <a href="https://www.figma.com/" target="_blank"> 
-     <img alt="figma" src="https://skillicons.dev/icons?i=figma">
-   </a>
+   <a href="https://expressjs.com/es/" target="_blank"><img alt="expressjs" src="https://skillicons.dev/icons?i=express"></a>
    &emsp;
-   <a href="https://git-scm.com/" target="_blank"> 
-     <img alt="git" src="https://skillicons.dev/icons?i=git">
-   </a>
+   <a href="https://www.figma.com/" target="_blank"><img alt="figma" src="https://skillicons.dev/icons?i=figma"></a>
    &emsp;
-   <a href="https://github.com/" target="_blank"> 
-     <img alt="github" src="https://skillicons.dev/icons?i=github">
-   </a>
+   <a href="https://git-scm.com/" target="_blank"><img alt="git" src="https://skillicons.dev/icons?i=git"></a>
    &emsp;
-   <a href="https://markdown.es/" target="_blank"> 
-     <img alt="md" src="https://skillicons.dev/icons?i=md">
-   </a>
+   <a href="https://github.com/" target="_blank"><img alt="github" src="https://skillicons.dev/icons?i=github"></a>
    &emsp;
-   <a href="https://nodejs.org/en" target="_blank"> 
-     <img alt="nodejs" src="https://skillicons.dev/icons?i=nodejs">
-   </a>
+   <a href="https://markdown.es/" target="_blank"><img alt="md" src="https://skillicons.dev/icons?i=md"></a>
    &emsp;
-   <a href="https://www.npmjs.com/" target="_blank"> 
-     <img alt="npm" src="https://skillicons.dev/icons?i=npm">
-   </a>
+   <a href="https://nodejs.org/en" target="_blank"><img alt="nodejs" src="https://skillicons.dev/icons?i=nodejs"></a>
    &emsp;
-   <a href="https://pugjs.org/api/getting-started.html" target="_blank"> 
-     <img alt="pug" src="https://skillicons.dev/icons?i=pug">
-   </a>
+   <a href="https://www.npmjs.com/" target="_blank"><img alt="npm" src="https://skillicons.dev/icons?i=npm"></a>
    &emsp;
-   <a href="https://developers.redhat.com/hello-world/nodejs" target="_blank"> 
-     <img alt="redhat" src="https://skillicons.dev/icons?i=redhat">
-   </a>
+   <a href="https://pugjs.org/api/getting-started.html" target="_blank"><img alt="pug" src="https://skillicons.dev/icons?i=pug"></a>
    &emsp;
-   <a href="https://www.sublimetext.com/" target="_blank"> 
-     <img alt="sublime" src="https://skillicons.dev/icons?i=sublime">
-   </a>
+   <a href="https://developers.redhat.com/hello-world/nodejs" target="_blank"><img alt="redhat" src="https://skillicons.dev/icons?i=redhat"></a>
    &emsp;
-   <a href="https://www.selenium.dev/" target="_blank"> 
-     <img alt="selenium" src="https://skillicons.dev/icons?i=selenium">
-   </a>
    &emsp;
-   <a href="https://visualstudio.microsoft.com/es/" target="_blank"> 
-     <img alt="visualstudio" src="https://skillicons.dev/icons?i=visualstudio">
-   </a>
+   <a href="https://www.sublimetext.com/" target="_blank"><img alt="sublime" src="https://skillicons.dev/icons?i=sublime"></a>
    &emsp;
-   <a href="https://vite.dev/" target="_blank"> 
-     <img alt="vite" src="https://skillicons.dev/icons?i=vite">
-   </a>
+   <a href="https://www.selenium.dev/" target="_blank"><img alt="selenium" src="https://skillicons.dev/icons?i=selenium"></a>
    &emsp;
-   <a href="https://code.visualstudio.com/" target="_blank"> 
-     <img alt="vscode" src="https://skillicons.dev/icons?i=vscode">
-   </a>
+   <a href="https://visualstudio.microsoft.com/es/" target="_blank"><img alt="visualstudio" src="https://skillicons.dev/icons?i=visualstudio"></a>
+   &emsp;
+   <a href="https://vite.dev/" target="_blank"><img alt="vite" src="https://skillicons.dev/icons?i=vite"></a>
+   &emsp;
+   <a href="https://code.visualstudio.com/" target="_blank"><img alt="vscode" src="https://skillicons.dev/icons?i=vscode"></a>
 </p>
 
 <br/>
 
-  <hr>
+<hr>
 
 ### 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JavierCarranza2203&theme=algolia" alt="javiercarranza"/></p>
@@ -218,7 +170,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JavierCarranza2203&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=JavierCarranza2203&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 <br><br><br><br><br>
-
+<br><br><br><br><br>
 <hr>
 
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
@@ -226,7 +178,5 @@
 <img src="https://github-profile-trophy.vercel.app/?username=JavierCarranza2203&theme=juicyfresh&no-bg=true" />
 
 Credits: [Javier Carranza](https://github.com/JavierCarranza2203)
------
-Credits: [Javier Carranza]
 
 Last Edited on: 30/10/2025
