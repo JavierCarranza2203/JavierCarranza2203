@@ -154,6 +154,6 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=JavierCarranza2203&theme=juicyfresh&no-bg=true" />
 
-Credits: [Javier Carranza](https://github.com/JavierCarranza2203)
+Créditos: [Javier Carranza](https://github.com/JavierCarranza2203)
 
-Last Edited on: 30/10/2025
+última edición: 31/10/2025
