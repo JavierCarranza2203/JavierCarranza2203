@@ -50,45 +50,25 @@
 
 <p align="left"> 
   &emsp; 
-  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://skillicons.dev/icons?i=js">
-   </a>
+  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"><img alt="JavaScript" src="https://skillicons.dev/icons?i=js"></a>
   &emsp;
-  <a href="https://www.php.net/" target="_blank"> 
-     <img alt="PHP" src="https://skillicons.dev/icons?i=php">
-   </a>
+  <a href="https://www.php.net/" target="_blank"><img alt="PHP" src="https://skillicons.dev/icons?i=php"></a>
   &emsp; 
-   <a href="https://www.arduino.cc/" target="_blank"> 
-     <img alt="arduino" src="https://skillicons.dev/icons?i=arduino">
-   </a>
+   <a href="https://www.arduino.cc/" target="_blank"><img alt="arduino" src="https://skillicons.dev/icons?i=arduino"></a>
 &emsp; 
-   <a href="https://dotnet.microsoft.com/es-es/languages/csharp" target="_blank"> 
-     <img alt="csharp" src="https://skillicons.dev/icons?i=cs">
-   </a>
+   <a href="https://dotnet.microsoft.com/es-es/languages/csharp" target="_blank"><img alt="csharp" src="https://skillicons.dev/icons?i=cs"></a>
 &emsp; 
-   <a href="https://go.dev/" target="_blank"> 
-     <img alt="go" src="https://skillicons.dev/icons?i=go">
-   </a>
+   <a href="https://go.dev/" target="_blank"><img alt="go" src="https://skillicons.dev/icons?i=go"></a>
 &emsp; 
-   <a href="https://www.swift.org/documentation/" target="_blank"> 
-     <img alt="swift" src="https://skillicons.dev/icons?i=swift">
-   </a>
+   <a href="https://www.swift.org/documentation/" target="_blank"><img alt="swift" src="https://skillicons.dev/icons?i=swift"></a>
 &emsp; 
-   <a href="https://www.soliditylang.org/" target="_blank"> 
-     <img alt="solidity" src="https://skillicons.dev/icons?i=solidity">
-   </a>
+   <a href="https://www.soliditylang.org/" target="_blank"><img alt="solidity" src="https://skillicons.dev/icons?i=solidity"></a>
 &emsp; 
-   <a href="https://www.typescriptlang.org/" target="_blank"> 
-     <img alt="typescript" src="https://skillicons.dev/icons?i=ts">
-   </a>
+   <a href="https://www.typescriptlang.org/" target="_blank"><img alt="typescript" src="https://skillicons.dev/icons?i=ts"></a>
 &emsp; 
-   <a href="https://www.python.org/" target="_blank"> 
-     <img alt="python" src="https://skillicons.dev/icons?i=py">
-   </a>
+   <a href="https://www.python.org/" target="_blank"><img alt="python" src="https://skillicons.dev/icons?i=py"></a>
 &emsp; 
-   <a href="https://kotlinlang.org/" target="_blank"> 
-     <img alt="kotlin" src="https://skillicons.dev/icons?i=kotlin">
-   </a>
+   <a href="https://kotlinlang.org/" target="_blank"><img alt="kotlin" src="https://skillicons.dev/icons?i=kotlin"></a>
 </p>
 
 ### 👉 Desarrollo Frontend
@@ -121,8 +101,7 @@
  
 <p>
    &emsp;
-   <a href="https://developer.android.com/studio" target="_blank"><img alt="androidstudio" src="https://skillicons.dev/icons?i=androidstudio">
-   </a>
+   <a href="https://developer.android.com/studio" target="_blank"><img alt="androidstudio" src="https://skillicons.dev/icons?i=androidstudio"></a>
    &emsp;
    <a href="https://discord.com/" target="_blank"><img alt="discord" src="https://skillicons.dev/icons?i=discord"></a>
    &emsp;
@@ -135,6 +114,7 @@
    <a href="https://github.com/" target="_blank"><img alt="github" src="https://skillicons.dev/icons?i=github"></a>
    &emsp;
    <a href="https://markdown.es/" target="_blank"><img alt="md" src="https://skillicons.dev/icons?i=md"></a>
+   <br>
    &emsp;
    <a href="https://nodejs.org/en" target="_blank"><img alt="nodejs" src="https://skillicons.dev/icons?i=nodejs"></a>
    &emsp;
@@ -143,7 +123,6 @@
    <a href="https://pugjs.org/api/getting-started.html" target="_blank"><img alt="pug" src="https://skillicons.dev/icons?i=pug"></a>
    &emsp;
    <a href="https://developers.redhat.com/hello-world/nodejs" target="_blank"><img alt="redhat" src="https://skillicons.dev/icons?i=redhat"></a>
-   &emsp;
    &emsp;
    <a href="https://www.sublimetext.com/" target="_blank"><img alt="sublime" src="https://skillicons.dev/icons?i=sublime"></a>
    &emsp;
@@ -169,8 +148,7 @@
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JavierCarranza2203&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=JavierCarranza2203&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
-<br><br><br><br><br>
+<br><br><br><br><br><br><br>
 <hr>
 
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
