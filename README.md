@@ -21,7 +21,7 @@
 
 <p align="center">
   <em>
-    Hello, I am Muhammad Faizan Haidar a <b>2018</b> undergraduate from <a href="https://qau.edu.pk/"> <b>Quaid-i-Azam University</b>, Pakistan Islamabad (" Quaidian Once Quaidian Forever ")</a>. <br>
+    Hola, mi nombre es Javier Armando Carranza García estudiante de <a href="#"> <b>InstitutoTecnológico de Nuevl Laredo</b>, Tamaulipas, México</a>. <br>
     <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>WordPress Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with <b>development</b> and always looking to find new solutions for <b> plugins/themes </b> to learn and develop. 
   </em> 
@@ -149,7 +149,9 @@
 
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
 
+img src="https://github-profile -trophy.vercel.app/?username= JavierCarranza2203&theme=juicyfresh& no-bg=true" />
 
+Credits: [Javier Carranza](https://github.com/JavierCarranza2203)
 -----
 Credits: [Javier Carranza]
 
