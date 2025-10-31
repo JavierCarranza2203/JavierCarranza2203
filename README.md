@@ -16,7 +16,7 @@
 <h3 align="center">Desarrollador Web | Junior Developer </h3>
 <h4 align="center">4 años de experiencia desarrollando aplicaciones.</h4>
 <p align="center">
- <a href = "mailto: javcarr.2203@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="60" width="80" /></a>
+ <a href = "mailto: javcarr.2203@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="60" width="100" /></a>
 </p>
 
 <p align="center">
@@ -28,8 +28,7 @@
   <br>
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Mi frase : "Y después que ustedes hayan sufrido sufrido un poco de tiempo, Dios mismo los hará fuertes, firmes y les dará seguridad”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </p>
-<br><br>
-
+<br>
 <hr>
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
@@ -114,9 +113,9 @@
    <a href="https://github.com/" target="_blank"><img alt="github" src="https://skillicons.dev/icons?i=github"></a>
    &emsp;
    <a href="https://markdown.es/" target="_blank"><img alt="md" src="https://skillicons.dev/icons?i=md"></a>
-   <br>
    &emsp;
    <a href="https://nodejs.org/en" target="_blank"><img alt="nodejs" src="https://skillicons.dev/icons?i=nodejs"></a>
+   <br><br>
    &emsp;
    <a href="https://www.npmjs.com/" target="_blank"><img alt="npm" src="https://skillicons.dev/icons?i=npm"></a>
    &emsp;
@@ -144,14 +143,14 @@
 
 <hr>
 <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Actividad en Git</b></i></p>
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JavierCarranza2203&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=JavierCarranza2203&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 <br><br><br><br><br><br><br>
 <hr>
 
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Trofeos Git</p><br>
 
 <img src="https://github-profile-trophy.vercel.app/?username=JavierCarranza2203&theme=juicyfresh&no-bg=true" />
 
