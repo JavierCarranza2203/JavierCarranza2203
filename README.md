@@ -6,8 +6,8 @@
 <img src="https://komarev.com/ghpvc/?username=JavierCarranza2203&color=brightgreen" alt="watching_count" />
  </p>
  <p align="center">
-<img src="https://img.shields.io/badge/Age-22-blue" />
-  <img src="https://img.shields.io/badge/Focus-Desarrollo%20Web-brightgreen" />
+<img src="https://img.shields.io/badge/Edas-22-blue" />
+  <img src="https://img.shields.io/badge/Especialidad-Desarrollo%20Web-brightgreen" />
   <img src="https://img.shields.io/badge/Pais-Mexico-success" />
   <img src="https://img.shields.io/badge/Idiomas-Ingles%20%26%20Español-brightgreen" />
 </p>
@@ -135,23 +135,22 @@
   <hr>
 
 ### 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadfaizanhaidar&theme=algolia" alt="muhammadfaizanhaidar"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JavierCarranza2203&theme=algolia" alt="javiercarranza"  /></p>
 
 <hr>
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadfaizanhaidar&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=muhammadfaizanhaidar&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JavierCarranza2203&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=JavierCarranza2203&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 <br><br><br><br><br>
 
 <hr>
 
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=muhammadfaizanhaidar&theme=juicyfresh&no-bg=true" />
 
 
 -----
-Credits: [Muhammad Faizan Haidar](https://github.com/muhammadfaizanhaidar)
+Credits: [Javier Carranza]
 
-Last Edited on: 05/08/2021
+Last Edited on: 30/10/2025
