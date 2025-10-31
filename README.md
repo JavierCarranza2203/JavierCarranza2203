@@ -6,14 +6,14 @@
 <img src="https://komarev.com/ghpvc/?username=JavierCarranza2203&color=brightgreen" alt="watching_count" />
  </p>
  <p align="center">
-<img src="https://img.shields.io/badge/Edas-22-blue" />
+<img src="https://img.shields.io/badge/Edad-22-blue" />
   <img src="https://img.shields.io/badge/Especialidad-Desarrollo%20Web-brightgreen" />
   <img src="https://img.shields.io/badge/Pais-Mexico-success" />
   <img src="https://img.shields.io/badge/Idiomas-Ingles%20%26%20Español-brightgreen" />
 </p>
 <hr>
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, mi nombre es Javier Carranza </h1>
-<h3 align="center">Desarrollador Web | Junio Developer </h3>
+<h3 align="center">Desarrollador Web | Junior Developer </h3>
 <h4 align="center">4 años de experiencia desarrollando aplicaciones.</h4>
 <p align="center">
  <a href = "mailto: javcarr.2203@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
@@ -57,6 +57,9 @@
    </a>
   <a href="#" target="_blank"> 
      <img alt="JavaScript" src="https://skillicons.dev/icons?i=php">
+   </a>
+<a href="#" target="_blank"> 
+     <img alt="JavaScript" src="https://skillicons.dev/icons?i=react">
    </a>
 </p>
 
