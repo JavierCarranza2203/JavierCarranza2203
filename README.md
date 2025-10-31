@@ -55,6 +55,9 @@
   <a href="#" target="_blank"> 
      <img alt="JavaScript" src="https://skillicons.dev/icons?i=js">
    </a>
+  <a href="#" target="_blank"> 
+     <img alt="JavaScript" src="https://skillicons.dev/icons?i=php">
+   </a>
 </p>
 
 ### 👉 Frontend Development
