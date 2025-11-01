@@ -17,7 +17,8 @@
 <h4 align="center">4 años de experiencia desarrollando aplicaciones.</h4>
 <p align="center">
  <a href = "mailto: javcarr.2203@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="60" width="100" /></a>
-  <a href = "https://wazasoftsolutions.netlify.app/" targer="_blank"><img align="center" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" height="60" width="100" /></a>
+  <a href = "https://wazasoftsolutions.netlify.app/" targer="_blank"><img align="center" src="	https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" height="60" width="100" /></a>
+  <a href = "mailto: javcarr.2203@gmail.com"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="60" width="100" /></a>
 </p>
 
 <p align="center">
